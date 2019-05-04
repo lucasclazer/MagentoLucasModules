@@ -1,6 +1,6 @@
 <?php
 \Magento\Framework\Component\ComponentRegistrar::register(
     \Magento\Framework\Component\ComponentRegistrar::MODULE,
-    'MagentoLucasModules_HelloWordIp',
+    'MagentoLucasModules_HelloWorldIp',
     __DIR__
 );
