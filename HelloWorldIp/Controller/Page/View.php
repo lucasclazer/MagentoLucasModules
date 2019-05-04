@@ -28,7 +28,7 @@ class View extends \Magento\Framework\App\Action\Action
     public function execute()
     {
        $result = $this->resultJsonFactory->create();
-       $data = ['message' => 'Hello world!'];
+       $data = ['message' => 'Hello world!', 'IP:' => Mage::helper('core/http')->getRemoteAddr()];
 
 return $result->setData($data);
 } }
