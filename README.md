@@ -24,8 +24,10 @@ PHPStorm
 ## Como Configurar
 
 **1. Para realizar a instalação basta baixar a maquina virtual:**
-		https://bitnami.com/stack/magento
-		Utilizar a senha: usuario: bitnami / senha: bitnami
+
+https://bitnami.com/stack/magento
+
+Utilizar a senha: usuario: bitnami / senha: bitnami
 
 **2.  Seguir o tutorial de inicialização da VM:**
 
@@ -54,12 +56,14 @@ Acessar a pagina da instância do magento:
 IP Vm: http://xx.xx.xx.xx/admin
 
 **Pagina de Gerênciamento Geral:**
-		Menu lateral > System > Web Setup Wizard
+Menu lateral > System > Web Setup Wizard
 
 **Pagina Web Setup Wizard:**
-		Menu lateral > Module Manager 
-		Procurar pelo Modulo: **MagentoLucasModules.**
-		Clicar em > Select > Enable
+Menu lateral > Module Manager 
+		
+Procurar pelo Modulo: "MagentoLucasModules"
+
+Clicar em > Select > Enable
 
 **5. Etapa Final: Para acessar a menssagem de retorno.**
 
